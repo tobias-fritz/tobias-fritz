@@ -17,7 +17,9 @@ I am a MSc student of Biochemistry @Stockholm_Uni with the Department of Biochem
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" title='anaconda' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" title='pytorch' width="40" height="40"/>&nbsp
 </div>
-<br>
+
+<p>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-fritz&layout=compact)](https://github.com/tobias-fritz)
 
 ### Languages
