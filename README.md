@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a MSc student in Protein Biochemistry @ Stockholm University. I am interested in computational biochemstry, biophysics, data science and everything in-between. In my studies I focus on protein and membrane chemistry and biophysics. I have practical experience in molecular modelling, qunatum chemistry and hybrid QM/MM MD methods. On this page you will find work related and leisurly programming!
+I am a MSc student in Protein Biochemistry @ Stockholm University. I am interested in computational biochemstry, biophysics, machine learning data science and everything in-between. In my studies I focus on protein and membrane chemistry and biophysics. I have practical experience in molecular modelling, qunatum chemistry and hybrid QM/MM MD methods. On this page you will find work related and leisurly programming!
 
 ### My tools and programming languages
 
