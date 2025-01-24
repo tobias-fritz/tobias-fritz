@@ -26,8 +26,6 @@ I am a MSc student in Protein Biochemistry @ Stockholm University. I am interest
 </div>
 
 <p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-fritz&layout=compact)](https://github.com/tobias-fritz)
 
 ### My languages
 
