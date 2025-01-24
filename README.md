@@ -12,6 +12,9 @@ I am a MSc student in Protein Biochemistry @ Stockholm University. I am interest
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title='bash' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title='sqlite' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title='jupyter' width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" title='jupyter' width="40" height="40"/>&nbsp 
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytest/pytest-original-wordmark.svg" title='jupyter' width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-line-wordmark.svg" title='jupyter' width="40" height="40"/>&nbsp 
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title='vscode' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" title='vim' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title='git' width="40" height="40"/>&nbsp
